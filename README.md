@@ -13,7 +13,7 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. Resources to support this assignment are provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to it above where you see "insert your hyperlink here". When you do this you should replace all text between the "[]", but keep the "[]" -- this will result in a clickable hyperlink in the browser.  
+1. Create a GitHub Page for your repo and add the link to it above where you see "insert your hyperlink here". When you do this you should replace all text between the "[https://ds4200-s23-class.github.io/ic-02-ritushah10/]", but keep the "[]" -- this will result in a clickable hyperlink in the browser.  
 
 1. Open the index.html file included in your repo. Please do the following: 
    - Title your webpage "ic-02". 
